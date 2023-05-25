@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucy Zheng and I'm a 4th year BMEB undergraduate with a statistic minor
+- 👋 Hi, I’m Lucy Zheng and I'm a 4th year BMEB undergraduate 
 - 👀 I’m interested in cancer research within the genomics field using a computational approach (i.e. programming and machine learning)
 - 🌱 I’m currently learning Bioinformatics Algorithms and models
 - 💞️ I’m looking forward to next chapter of my life after graduation, hopefully attending grad school. 
